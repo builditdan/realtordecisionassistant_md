@@ -57,6 +57,9 @@ For now, the **public way to experiment is the Markdown file in this repository*
 
 RDA is a decision-support experiment, **not a substitute for a licensed supervising broker, attorney, or other qualified professional**. Verify market data, contract terms, legal requirements, and local real estate rules independently. Avoid entering unnecessary personal or confidential client information into AI tools, and follow your brokerage's policies and applicable privacy requirements.
 
+---
+The goal is to help agents ask better questions and evaluate options—not to replace their professional judgment.
+
 ## Feedback and project direction
 
 This is an early learning project, not a finished commercial product. I'm interested in what real estate agents find useful, where the advice falls short, and which everyday decisions are worth exploring next.
@@ -65,11 +68,14 @@ If you've tried the prototype, consider opening a GitHub issue with a scenario, 
 
 The broader RDA project explores more advanced workflows and integrations, but those are outside the scope of this prototype.
 
+[Share feedback or suggest an improvement](https://github.com/builditdan/realtordecisionassistant_md/issues)
+
 ---
 
 *An experimental project exploring the intersection of software engineering, AI, and real estate.*
 
 ---
+
 
 *This early prototype is released under the MIT License to encourage experimentation, learning, and reuse. The broader Realtor Decision Assistant application is a separate, ongoing development project.*
 
