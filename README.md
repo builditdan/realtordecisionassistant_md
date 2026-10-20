@@ -57,8 +57,7 @@ For now, the **public way to experiment is the Markdown file in this repository*
 
 RDA is a decision-support experiment, **not a substitute for a licensed supervising broker, attorney, or other qualified professional**. Verify market data, contract terms, legal requirements, and local real estate rules independently. Avoid entering unnecessary personal or confidential client information into AI tools, and follow your brokerage's policies and applicable privacy requirements.
 
----
-The goal is to help agents ask better questions and evaluate options—not to replace their professional judgment.
+> The goal is to help agents ask better questions and evaluate options—not to replace their professional judgment.
 
 ## Feedback and project direction
 
