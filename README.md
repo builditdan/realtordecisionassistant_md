@@ -69,5 +69,5 @@ The broader RDA project explores more advanced workflows and integrations, but t
 
 *An experimental project exploring the intersection of software engineering, AI, and real estate.*
 
-*This early prototype is released under the MIT License to encourage experimentation, learning, and reuse. The broader Realtor Decision Assistant application is a separate, ongoing development project.
+*This early prototype is released under the MIT License to encourage experimentation, learning, and reuse. The broader Realtor Decision Assistant application is a separate, ongoing development project.*
 
