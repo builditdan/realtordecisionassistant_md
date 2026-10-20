@@ -6,9 +6,9 @@ Realtor Decision Assistant (RDA) began as an exploration of a simple question: *
 
 This repository shares a **lightweight, early Markdown prototype** of that idea. It can help you evaluate an offer, think through a struggling listing, brainstorm marketing ideas, and draft client communications. It is not the full RDA application.
 
-## Try the free prototype
+## Try the prototype
 
-**File:** [`RDA_Early_AI_Prototype_Free.md`](RDA_Early_AI_Prototype_Free.md)
+**File:** [`RDA_Early_AI_Prototype.md`](RDA_Early_AI_Prototype.md)
 
 You do not need to install a Plugin or write code to try the Markdown version.
 
@@ -63,7 +63,7 @@ This is an early learning project, not a finished commercial product. I'm intere
 
 If you've tried the prototype, consider opening a GitHub issue with a scenario, suggestion, or observation—**without including private client information**.
 
-The broader RDA project explores more advanced workflows and integrations, but those are outside the scope of this free prototype.
+The broader RDA project explores more advanced workflows and integrations, but those are outside the scope of this prototype.
 
 ---
 
