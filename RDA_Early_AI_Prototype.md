@@ -1,4 +1,4 @@
-# Realtor Decision Assistant — Early AI Prototype (Free)
+# Realtor Decision Assistant — Early AI Prototype
 
 > **Shared experimental example.** This Markdown file provides instructions for an AI assistant; it is not the full Realtor Decision Assistant application. It does not provide a CRM, stored client records, reminders, live MLS/market data, or integrations. Verify real estate guidance against current local requirements and reliable market information. Use professional judgment and consult your supervising broker or qualified advisers as appropriate.
 
